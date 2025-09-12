@@ -1,0 +1,11 @@
+{
+	"id": "ob-share-beta",
+	"name": "ObSharebeta",
+	"version": "1.0.2",
+	"minAppVersion": "1.9.12",
+	"description": "基于飞书云文档的Obsidian笔记同步与分享方案",
+	"author": "xigua",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
