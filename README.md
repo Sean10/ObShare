@@ -46,7 +46,7 @@
 
 #### 🔧 详细配置步骤
 
-**完整配置指南：** [快速配置您的ObShare](https://itlueqqx8t.feishu.cn/docx/XUJmdxbf7octOFx3Vt0c3KJ3nWe)
+**完整配置指南：** 请查阅 [快速配置您的ObShare](https://itlueqqx8t.feishu.cn/docx/XUJmdxbf7octOFx3Vt0c3KJ3nWe)
 
 1. **创建飞书应用**
    - 访问 [飞书开放平台](https://open.feishu.cn/)
@@ -72,6 +72,8 @@
 1. **命令面板**：`Ctrl/Cmd + P` → 搜索 "分享当前文档到飞书"
 2. **右键菜单**：在文件列表中右键 → "分享该页面"
 3. **工具栏按钮**：点击左侧工具栏的分享图标
+<img width="172" height="76" alt="490f534d-b252-45bb-aed1-268df370511a" src="https://github.com/user-attachments/assets/444b543b-f1ee-4633-96d9-86215ab19eaf" />
+
 
 #### ⚙️ 权限设置
 
@@ -90,6 +92,8 @@
 - 上传文档数量统计
 - 帮助合理控制使用频率
 - 您可以在Obsidian设置页面查看所有上传记录，并直接在此管理您的文档
+<img width="819" height="533" alt="b7f957a2-0c33-405a-95f9-ba61459818e6" src="https://github.com/user-attachments/assets/81f2f411-49f9-4211-a807-f6e39c00562d" />
+
 
 ## 🛡️ 安全与隐私
 
