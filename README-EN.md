@@ -1,5 +1,5 @@
-ObShare - Obsidian Feishu Cloud Document Sync & Share Plugin
-🚀 One-time Setup, Easy to Use - A Feishu Cloud Document-based solution for Obsidian note syncing and sharing 
+# ObShare - Obsidian Feishu Docs Sync & Share Plugin
+🚀 One-time Setup, Easy to Use - A Feishu Doc-based solution for Obsidian note syncing and sharing 
 
 [![Version](https://img.shields.io/badge/version-1.0.2-blue.svg)](https://github.com/your-repo/ob-share)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -14,7 +14,7 @@ ObShare - Obsidian Feishu Cloud Document Sync & Share Plugin
 🚫 No Network Listening - Communicates with the Feishu API only upon explicit user action
 
 ### 🎯 One-Click Sharing Experience
-📤 One-Click Upload - Quickly share current document as a Feishu Cloud Document via right-click menu or command palette
+📤 One-Click Upload - Quickly share current document as a Feishu Doc via right-click menu or command palette
 🎨 Intelligent Conversion - Automatically converts various Obsidian formats
 🖼️ Image Handling - Automatically uploads and converts local image links
 ⚙️ Flexible Permissions - Fine-tune document visibility, copy permissions, and more
@@ -110,7 +110,7 @@ A: The plugin is fully open-source—you can audit the code. All sensitive data 
 Q: Does this plugin collect my data?
 A: Absolutely not. This plugin uses your own Feishu API keys to convert formats locally, call Feishu APIs, and upload directly to Feishu servers. All actions are under your full control and involve no third-party servers.
 
-Q: Can I upload all my content to Feishu Cloud Documents?
+Q: Can I upload all my content to Feishu Doc?
 A: Due to limitations on Feishu storage space and API quotas, batch uploads are not currently supported. Additionally, if you enable public internet access for your documents, you must comply with Feishu’s governance policies. Once enabled, anyone with the link can access the document. As the document owner, you are responsible for ensuring its legal and compliant use. Any disputes arising from this are unrelated to this plugin.
 
 ## 🤝 Contribute
