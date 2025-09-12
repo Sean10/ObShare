@@ -1,6 +1,8 @@
 # ObShare - Obsidian Feishu Docs Sync & Share Plugin
 🚀 One-time Setup, Easy to Use - A Feishu Doc-based solution for Obsidian note syncing and sharing 
 
+[中文](README.md)|[English](README-EN.md)
+
 [![Version](https://img.shields.io/badge/version-1.0.2-blue.svg)](https://github.com/your-repo/ob-share)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Obsidian](https://img.shields.io/badge/Obsidian-1.9.12+-purple.svg)](https://obsidian.md/)
