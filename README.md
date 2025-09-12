@@ -143,13 +143,13 @@
 本项目采用 [MIT 许可证](LICENSE)。
 
 ## 🙏 致谢
-- [Obsidian](https://obsidian.md/) - 优秀的笔记软件
-- [飞书开放平台](https://open.feishu.cn/) - 提供API支持
+- [Obsidian](https://obsidian.md/) - 最优秀的笔记软件
+- [飞书开放平台](https://open.feishu.cn/) - 提供API能力，以及非常清晰易懂的文档
 - 所有贡献者和用户的支持
 
 ---
 
 **🔗 相关链接**
 - [配置指南](https://itlueqqx8t.feishu.cn/docx/XUJmdxbf7octOFx3Vt0c3KJ3nWe)
-
+- [用户体验问卷](https://f.wps.cn/g/DLUqR4jB)
 **💡 如果这个插件对您有帮助，请给我们一个 ⭐ Star！**
