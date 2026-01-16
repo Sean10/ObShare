@@ -9,7 +9,7 @@
 [![Obsidian](https://img.shields.io/badge/Obsidian-1.9.12+-purple.svg)](https://obsidian.md/)
 
 
-## 版本更新进度
+## 👀版本更新进度
 1.2.0(2601)
 - 设置界面优化，功能分区更加合理
 - 新增双链模式，支持将所有双链子文档一并上传
