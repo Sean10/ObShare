@@ -8,6 +8,16 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Obsidian](https://img.shields.io/badge/Obsidian-1.9.12+-purple.svg)](https://obsidian.md/)
 
+
+## 版本更新进度
+1.2.0(2601)
+- 设置界面优化，功能分区更加合理
+- 新增双链模式，支持将所有双链子文档一并上传
+- 优化图片上传体验，修复粘贴图片无法正常上传的问题
+- 新增 mermaid 语法适配，优化 mermaid 不可识别或者显示异常
+- 优化代码规范和精简性，以满足 Obsidian 官方插件审核要求
+- 新增审查日志（debug 模式），上传过程全程可审计
+
 ## ✨ 核心特性
 
 ### 🔒 隐私安全第一
