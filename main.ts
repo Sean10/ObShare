@@ -1988,9 +1988,9 @@ class CalloutConversionModal extends Modal {
 		const { contentEl } = this;
 		contentEl.empty();
 
-		new Setting(contentEl).setName('Callout 转换确认').setHeading();
+		new Setting(contentEl).setName('callout 转换确认').setHeading();
 		contentEl.createEl('p', { 
-			text: `发现 ${this.callouts.length} 个 Callout 块，请选择要转换为飞书高亮块的项目：` 
+			text: `发现 ${this.callouts.length} 个 callout 块，请选择要转换为飞书高亮块的项目：` 
 		});
 
 		// 创建 Callout 列表
@@ -2069,7 +2069,7 @@ class CalloutConversionModal extends Modal {
 		});
 		confirmBtn.addEventListener('click', () => {
 			if (this.selectedCallouts.size === 0) {
-				new Notice('请至少选择一个 Callout 进行转换');
+				new Notice('请至少选择一个 callout 进行转换');
 				return;
 			}
 			this.onConfirm(Array.from(this.selectedCallouts));
