@@ -158,7 +158,7 @@ export class SvgConverter {
             
             return result;
         } catch (error) {
-            // 解析失败时返回空对象，使用默认尺寸
+            void error;
             return {};
         }
     }
